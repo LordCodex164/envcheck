@@ -258,7 +258,7 @@ MIT License - see [LICENSE](LICENSE) file
 
 ## Author
 
-Your Name ([@](https://x.com/Lordcodex_))
+Your Name Lordcodex164 ([@](https://x.com/Lordcodex_))
 
 ---
 
