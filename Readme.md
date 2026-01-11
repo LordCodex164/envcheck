@@ -22,7 +22,7 @@
 
 - Cobra: manages sub commands, flags and help text
 
-#Remaining Things on the list
+# Remaining Things on the list
 
 - tests
 
