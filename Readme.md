@@ -1,3 +1,8 @@
+#envcheck
+
+Your CLI Tool thaat validates environment
+
+
 # Things i will be learning in this module
 
 - Go structure and modules
@@ -21,6 +26,7 @@
 # Resources 
 
 - Cobra: manages sub commands, flags and help text
+
 
 # Remaining Things on the list
 

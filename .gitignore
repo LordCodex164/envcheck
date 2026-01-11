@@ -1,1 +1,6 @@
 .env
+dist
+.envcheck.yaml
+envcheck
+.DS_Store
+*.exe
