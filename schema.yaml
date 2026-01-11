@@ -1,0 +1,15 @@
+variables:
+    - name: APP_DATABASE_URL
+      description: PostgreSQL connection string
+      type: string
+      required: true
+    - name: APP_PORT
+      description: Server port
+      type: int
+      required: false
+      #default: "8080"
+    - name: APP_DEBUG
+      description: Enable debug mode
+      type: bool
+      required: false
+      default: "false"
