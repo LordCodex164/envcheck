@@ -170,29 +170,29 @@ jobs:
 ### Example Schema
 ```yaml
 variables:
-  - name: DATABASE_URL
+  - name: APP_DATABASE_URL
     required: true
     type: url
     description: PostgreSQL connection string
     
-  - name: REDIS_URL
+  - name: APP_REDIS_URL
     required: true
     type: url
     description: Redis connection string
     
-  - name: PORT
+  - name: APP_PORT
     required: false
     type: int
     default: "8080"
     description: HTTP server port
     
-  - name: LOG_LEVEL
+  - name: APP_LOG_LEVEL
     required: false
     type: string
     default: "info"
     description: Logging level (debug, info, warn, error)
     
-  - name: FEATURE_FLAG_BETA
+  - name: APP_FEATURE_FLAG_BETA
     required: false
     type: bool
     default: "false"
